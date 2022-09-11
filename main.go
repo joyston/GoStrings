@@ -1,6 +1,6 @@
 package main
 
 func main() {
-	// ExecFunctions()
-	ExecFormatting()
+	ExecFunctions()
+	// ExecFormatting()
 }
